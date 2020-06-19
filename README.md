@@ -1,5 +1,12 @@
 # Floating label text field
-it float the label above the input field when the field is selected and remove the placeholder. When the field loses focus, bring back the placeholder and remove the label if the field is empty.
+It is a text label which appears inside the input field at full font-size. When interacted with, the label “floats” above, making room for the user to input a value
 
-## 
+## Features
+* Float label pattern
+* Custom text input
+* Text input validation
+
+## Requirement
+* iOS
+* compatible using swift
 
