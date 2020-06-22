@@ -17,3 +17,4 @@ floating label is a text label which appears inside the input field at full font
 [To read more on this and how to impleament](https://medium.com/sprinthub/creating-a-custom-floating-label-style-text-field-in-swift-f9f6aeaf39fe)
 
 ## Contribution
+The code is on [Github](https://github.com/quacklabs/FloatingLabelInputSwift). feel free to fork, modify and make it better.
